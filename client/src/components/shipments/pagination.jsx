@@ -27,7 +27,7 @@ const Pagination = ({
           {'>>'}
         </button>{' '}
         <span>
-          Pages{' '}
+          Pagesss{' '}
           <strong>
             {pageIndex + 1} of {pageOptions.length}
           </strong>{' '}
